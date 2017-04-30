@@ -22,6 +22,7 @@ namespace EnergyConsumption
         int[] exteriorHours = new int[4];
         int[] exteriorAmounts = new int[4];
 
+
         public Form1()
         {
 
